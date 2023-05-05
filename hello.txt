@@ -1,1 +1,3 @@
 this is stash demo
+
+thi is removed
